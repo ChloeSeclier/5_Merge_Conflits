@@ -1,2 +1,2 @@
-# 5_Merge_Conflits
+LOCAL
 quelques lignes en distant
